@@ -1,0 +1,10 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Site Ip Adresi Ögrenme\Site Ip Adresi Ögrenme\bin\Debug\Site Ip Adresi Ögrenme.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Site Ip Adresi Ögrenme\Site Ip Adresi Ögrenme\bin\Debug\Site Ip Adresi Ögrenme.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Site Ip Adresi Ögrenme\Site Ip Adresi Ögrenme\bin\Debug\Site Ip Adresi Ögrenme.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Site Ip Adresi Ögrenme\Site Ip Adresi Ögrenme\obj\Debug\Site Ip Adresi Ögrenme.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Site Ip Adresi Ögrenme\Site Ip Adresi Ögrenme\obj\Debug\Site_Ip_Adresi_Ögrenme.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Site Ip Adresi Ögrenme\Site Ip Adresi Ögrenme\obj\Debug\Site_Ip_Adresi_Ögrenme.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Site Ip Adresi Ögrenme\Site Ip Adresi Ögrenme\obj\Debug\Site Ip Adresi Ögrenme.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Site Ip Adresi Ögrenme\Site Ip Adresi Ögrenme\obj\Debug\Site Ip Adresi Ögrenme.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Site Ip Adresi Ögrenme\Site Ip Adresi Ögrenme\obj\Debug\Site Ip Adresi Ögrenme.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Site Ip Adresi Ögrenme\Site Ip Adresi Ögrenme\obj\Debug\Site Ip Adresi Ögrenme.pdb
